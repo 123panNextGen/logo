@@ -2,6 +2,4 @@
 
 预览图
 
-![logo](./svg/logo.svg)
-
-![logo2](./logo.png)
+![logo](./logo.png)
