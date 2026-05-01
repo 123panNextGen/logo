@@ -2,4 +2,4 @@
 
 预览图
 
-![logo](./logo.png)
+![logo](./img/logo-v2.png)
